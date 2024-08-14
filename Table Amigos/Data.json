@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Pedro",
+        "telefono": 545656885,
+        "curso": "1DAM",
+        "nota": 7
+    },
+    {
+        "nombre": "ee",
+        "telefono": 3446500,
+        "curso": "1DAM",
+        "nota": 8
+    },
+    {
+        "nombre": "ww",
+        "telefono": 55667788,
+        "curso": "2DAM",
+        "nota": 6
+    }
+]

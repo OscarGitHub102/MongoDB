@@ -1,0 +1,66 @@
+[
+    {
+        "codigo": 1,
+        "denominacion": "Portatil Acer",
+        "pvp": 500,
+        "categoria": "Informática",
+        "uv": 10,
+        "stock": 20
+    },
+    {
+        "codigo": 2,
+        "denominacion": "Pala Pádel",
+        "pvp": 100,
+        "categoria": "Deportes",
+        "uv": 5,
+        "stock": 30
+    },
+    {
+        "codigo": 3,
+        "denominacion": "Caja Lápices",
+        "pvp": 6,
+        "categoria": "Escritorio",
+        "uv": 10,
+        "stock": 6
+    },
+    {
+        "codigo": 4,
+        "denominacion": "Marcadores",
+        "pvp": 10,
+        "categoria": "Escritorio",
+        "uv": 20,
+        "stock": 19
+    },
+    {
+        "codigo": 5,
+        "denominacion": "Memoria 32GB",
+        "pvp": 120,
+        "categoria": "Informática",
+        "uv": 8,
+        "stock": 10
+    },
+    {
+        "codigo": 6,
+        "denominacion": "Micro Intel",
+        "pvp": 150,
+        "categoria": "Informática",
+        "uv": 4,
+        "stock": 10
+    },
+    {
+        "codigo": 7,
+        "denominacion": "Bolas Pádel",
+        "pvp": 5,
+        "categoria": "Deportes",
+        "uv": 15,
+        "stock": 30
+    },
+    {
+        "codigo": 8,
+        "denominacion": "Falda Pádel",
+        "pvp": 15,
+        "categoria": "Deportes",
+        "uv": 10,
+        "stock": 10
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Acceso a datos",
+        "pvp": 35,
+        "editorial": "Garceta",
+        "temas":["Base de datos", "Hibernate","Neodatis"]
+    },
+    {
+        "codigo": 2,
+        "nombre": "Entornos de desarrollo",
+        "pvp": 27,
+        "editorial": "Garceta",
+        "temas": ["UML", "Subversión", "ERMaster"]
+    },
+    {
+        "codigo": 3,
+        "nombre": "Programación de Servicios",
+        "pvp": 25, 
+        "editorial": "Garceta",
+        "temas": ["SOCKET", "Multihilo"]
+    }
+]
