@@ -8,7 +8,7 @@ db.getCollection('Emp').find({ salario : { $not : { $gte : 1500 , $lte : 2850 } 
 db.getCollection('Emp').find({ fecha_alt : { $gt : new Date("1981-02-20"), $lt : new Date("1981-05-01") } }, { apellido : 1, oficio : 1, fecha_alt : 1}).sort({ fech_alt : 1 })
 // 5. Visualizar el apellido y el número de departamento de todos los empleados de los departamentos 10 y 30. (Orden alfabético por apellido).
 db.getCollection('Emp').find({ $or : [ { dept_no : 10 }, { dept_no : 30 } ] }, { apellido : 1, dept_no : 1 }).sort({ apellido : 1 })
-// 6. Sacar un listado del apellido de los empleados que ganan más de 1500$ de los departamentos 10 ó 30.
+// 6. Sacar un listado del apellido de los empleados que ganan más de 1500$ de los departamentos 10 o 30.
 db.getCollection('Emp').find({ $or : [ { dept_no : 10 }, { dept_no : 30 } ], $and : [ { salario : { $gt : 1500 } } ] },{ apellido : 1})
 // 7. Visualizar el nombre y la fecha de alta de cada empleado que fue contratado en 1982.
 db.getCollection('Emp').find({ fecha_alt : { $gt : new Date("1982-01-01"), $lt : new Date("1982-12-31") } }, { apellido : 1, fecha_alt : 1 })
