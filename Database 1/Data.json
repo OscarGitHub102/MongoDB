@@ -1,0 +1,156 @@
+[
+    {
+        "_id": "emp1",
+        "emp_no": 7369.0,
+        "apellido": "SANCHEZ",
+        "oficio": "EMPLEADO",
+        "dir": 7902.0,
+        "fecha_alt": "1980-12-16T23:00:00.000Z",
+        "salario": 625.0,
+        "comision": null,
+        "dept_no": 20.0
+    },
+    {
+        "_id": "emp2",
+        "emp_no": 7499.0,
+        "apellido": "ARROYO",
+        "oficio": "VENDEDOR",
+        "dir": 7698.0,
+        "fecha_alt": "1980-02-19T23:00:00.000Z",
+        "salario": 1250.0,
+        "comision": 235.0,
+        "dept_no": 30.0
+    },
+    {
+        "_id": "emp3",
+        "emp_no": 7521.0,
+        "apellido": "SALA",
+        "oficio": "VENDEDOR",
+        "dir": 7698.0,
+        "fecha_alt": "1981-02-21T23:00:00.000Z",
+        "salario": 975.0,
+        "comision": 390.0,
+        "dept_no": 30.0
+    },
+    {
+        "_id": "emp4",
+        "emp_no": 7566.0,
+        "apellido": "JIMENEZ",
+        "oficio": "DIRECTOR",
+        "dir": 7839.0,
+        "fecha_alt": "1981-04-01T22:00:00.000Z",
+        "salario": 2325.0,
+        "comision": null,
+        "dept_no": 20.0
+    },
+    {
+        "_id": "emp5",
+        "emp_no": 7654.0,
+        "apellido": "MARTIN",
+        "oficio": "VENDEDOR",
+        "dir": 7698.0,
+        "fecha_alt": "1981-09-28T22:00:00.000Z",
+        "salario": 975.0,
+        "comision": 1095.0,
+        "dept_no": 30.0
+    },
+    {
+        "_id": "emp6",
+        "emp_no": 7698.0,
+        "apellido": "NEGRO",
+        "oficio": "DIRECTOR",
+        "dir": 7839.0,
+        "fecha_alt": "1981-04-30T22:00:00.000Z",
+        "salario": 2225.0,
+        "comision": null,
+        "dept_no": 30.0
+    },
+    {
+        "_id": "emp7",
+        "emp_no": 7782.0,
+        "apellido": "CEREZO",
+        "oficio": "DIRECTOR",
+        "dir": 7839.0,
+        "fecha_alt": "1981-06-08T22:00:00.000Z",
+        "salario": 1915.0,
+        "comision": null,
+        "dept_no": 10.0
+    },
+    {
+        "_id": "emp8",
+        "emp_no": 7788.0,
+        "apellido": "GIL",
+        "oficio": "ANALISTA",
+        "dir": 7566.0,
+        "fecha_alt": "1981-11-08T23:00:00.000Z",
+        "salario": 2345.0,
+        "comision": null,
+        "dept_no": 20.0
+    },
+    {
+        "_id": "emp9",
+        "emp_no": 7839.0,
+        "apellido": "REY",
+        "oficio": "PRESIDENTE",
+        "dir": null,
+        "fecha_alt": "1981-11-16T23:00:00.000Z",
+        "salario": 3900.0,
+        "comision": null,
+        "dept_no": 10.0
+    },
+    {
+        "_id": "emp10",
+        "emp_no": 7844.0,
+        "apellido": "TOVAR",
+        "oficio": "VENDEDOR",
+        "dir": 7698.0,
+        "fecha_alt": "1981-09-07T22:00:00.000Z",
+        "salario": 1175.0,
+        "comision": 0.0,
+        "dept_no": 30.0
+    },
+    {
+        "_id": "emp11",
+        "emp_no": 7876.0,
+        "apellido": "ALONSO",
+        "oficio": "EMPLEADO",
+        "dir": 7788.0,
+        "fecha_alt": "1981-09-22T22:00:00.000Z",
+        "salario": 860.0,
+        "comision": null,
+        "dept_no": 20.0
+    },
+    {
+        "_id": "emp12",
+        "emp_no": 7900.0,
+        "apellido": "JIMENO",
+        "oficio": "EMPLEADO",
+        "dir": 7698.0,
+        "fecha_alt": "1981-12-02T23:00:00.000Z",
+        "salario": 745.0,
+        "comision": null,
+        "dept_no": 30.0
+    },
+    {
+        "_id": "emp13",
+        "emp_no": 7902.0,
+        "apellido": "FERNANDEZ",
+        "oficio": "ANALISTA",
+        "dir": 7566.0,
+        "fecha_alt": "1981-12-02T23:00:00.000Z",
+        "salario": 2345.0,
+        "comision": null,
+        "dept_no": 20.0
+    },
+    {
+        "_id": "emp14",
+        "emp_no": 7934.0,
+        "apellido": "MUNOZ",
+        "oficio": "EMPLEADO",
+        "dir": 7782.0,
+        "fecha_alt": "1982-01-22T23:00:00.000Z",
+        "salario": 1015.0,
+        "comision": null,
+        "dept_no": 10.0
+    }
+]
